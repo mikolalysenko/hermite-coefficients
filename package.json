@@ -1,0 +1,24 @@
+{
+  "name": "hermite-coefficients",
+  "version": "0.0.0",
+  "description": "Returns coefficients of degree n Hermite polynomial",
+  "main": "hermite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/hermite-coefficients.git"
+  },
+  "keywords": [
+    "hermite",
+    "probabilisty",
+    "polynomial",
+    "coefficient"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/hermite-coefficients/issues"
+  }
+}
